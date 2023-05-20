@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#body {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+/* -------------------- Navbar -------------------- */
+
+.box {
+    background-color: brown;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+#icon-1 {
+    color: white;
+}
+
+.list li {
+    display: inline;
+    list-style: none;
+}
+
+.two {
+    width: 25%;
+}
+
+.list li a {
+    color: white;
+    text-decoration: none;
+    padding: 3%;
+}
+
+/* -------------------- Navbar -------------------- */
+
+
+/* -------------------- Dropdown -------------------- */
+
+#box-1 {
+    width: 10%;
+    height: 20%;
+    padding-top: 3%;
+    background-color: brown;
+    text-align: center;
+    border: 3px solid whitesmoke;
+}
+
+.list-1 .para a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.para {
+    height: 2%;
+    border-left: 5px solid olive;
+}
+
+
+/* -------------------- Dropdown -------------------- */
+
+
